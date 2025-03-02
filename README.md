@@ -1,7 +1,7 @@
 # PROJETO APLICADO I - CURSO CIÊNCIA DE DADOS - ANO 2025 - 1º SEMESTRE - TURMA 201825166.000.02A
 ### Grupo - Projeto Aplicado 11
 
-Daniel dos Santos da Silva - 
+Daniel dos Santos da Silva - 10720767
 
 Enzo Ferroni - 10417100
 
