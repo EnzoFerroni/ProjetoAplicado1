@@ -1,5 +1,5 @@
 # PROJETO APLICADO I - CURSO CIÊNCIA DE DADOS - ANO 2025 - 1º SEMESTRE - TURMA 201825166.000.02A
-### Grupos - Projeto Aplicado 11
+### Grupo - Projeto Aplicado 11
 
 Daniel dos Santos da Silva - 
 
