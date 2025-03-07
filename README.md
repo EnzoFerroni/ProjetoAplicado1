@@ -5,6 +5,8 @@ Daniel dos Santos da Silva - 10720767
 
 Enzo Ferroni - 10417100
 
+Hudson Carvalho de Jesus - 10721459
+
 Vinícius de Souza Sabiá - 10721475
 
 ## Avaliações
