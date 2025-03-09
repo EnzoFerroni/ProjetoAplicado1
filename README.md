@@ -1,4 +1,7 @@
-# PROJETO APLICADO I - CURSO CIÊNCIA DE DADOS - ANO 2025 - 1º SEMESTRE - TURMA 201825166.000.02A
+## 📊 PROJETO APLICADO I - CURSO CIÊNCIA DE DADOS - ANO 2025 - 1º SEMESTRE - TURMA 201825166.000.02A
+
+### 🎵 Análise das Músicas Mais Reproduzidas no Spotify (2024)
+
 ### Grupo - Projeto Aplicado 11
 
 Daniel dos Santos da Silva - 10720767
@@ -9,12 +12,8 @@ Hudson Carvalho de Jesus - 10721459
 
 Vinícius de Souza Sabiá - 10721475
 
-## Avaliações
+### 📌 Objetivo do Estudo
 
-| Critérios | Avaliação | Check ❌✅ |
-| ------------- | ------------- | :-: |
-| Organização do Documento | Documento possui capa, sumário, lista de figuras, lista de tabelas, introdução e capítulos separados para cada conjunto de itens solicitados. | ❌ |
-| Criação do Repositório | Repositório Criado, está organizado com pastas, possui sumário, Objetivo descrito no doc read-me, contém os nomes dos membros. | ❌ |
-| Cronograma | Cronograma completo, contendo atividades, datas, responsabilidades e milestones, em conformidade com os prazos do projeto no componente curricular. | ❌ |
-| Objetivos do projeto | Atende plenamente as necessidades do componente curricular apresentando a empresa, a área de atuação as necessidades e o problema a ser trabalhado. | ❌ |
-| Dataset e Metadados | Atende plenamente as necessidades do componente curricular contendo metadados, colunas e linhas em quantidade, que podem atender aos objetivos do trabalho. | ❌ |
+O objetivo deste estudo é realizar uma análise exploratória dos dados das músicas mais reproduzidas no Spotify em 2024. A partir do dataset disponível no Kaggle, buscamos identificar padrões e tendências que influenciam o sucesso das músicas na plataforma de streaming.
+
+Link do dataset [Most Streamed Spotify Songs 2024](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024).
