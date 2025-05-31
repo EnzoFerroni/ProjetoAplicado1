@@ -23,3 +23,7 @@ O objetivo deste estudo é realizar uma análise exploratória dos dados das mú
 ### Vídeo de Apresentação
 
 https://youtu.be/M3iHz7ZV6ig
+
+https://github.com/user-attachments/assets/ba7f7d74-802e-40c8-ba8a-4b0d2ae5be4f
+
+
