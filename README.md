@@ -19,3 +19,7 @@ O objetivo deste estudo é realizar uma análise exploratória dos dados das mú
 ### 🔗 Link do dataset
 
 [Kaggle - Most Streamed Spotify Songs 2024](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
+
+### Vídeo de Apresentação
+
+https://youtu.be/M3iHz7ZV6ig
